@@ -1,2 +1,1 @@
-# git_class_python
-SEGUNDA AULA GIT COM PROFESSORA VITORIA
+aulas udemy
